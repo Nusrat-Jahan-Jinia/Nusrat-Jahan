@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Mst Nusrat Jahan
+avatar: /static/images/avatar.jpg
+occupation: Software Engineer
+company: Dynamic Solution Innovators
+email: nusratcode14@gmail.com
+linkedin: https://www.linkedin.com/in/nusrat-jahan-98748a5a/
+github: https://github.com/Nusrat-Jahan-Jinia
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a software engineer working on web applications and web infrastructure. I
+have been developing professionally for 7 years and I started in tech with internships, freelance services, and part-time positions during university.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+A day in my life consists of:preparing web art, ﬁxing front-end bugs, adding an
+API endpoint, database design, conﬁguring a unit or unit test library, setting up a
+deployment plan, and execute it with the team.
